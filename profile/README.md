@@ -5,7 +5,7 @@
 **LotusLabs** is a development studio focused on creating tools for streamers. We create tools that enhance the streaming experiences through integrations with Twitch, StreamElements, and API's.
 
 ## 🌟 About Us
-We specialize in:
+We specialise in:
 - **Custom Twitch Widgets** – Interactive overlays and chat integrations
 - **StreamElements Tools** – Enhancements and automation for overlays and alerts
 - **Twitch API Integrations** – Custom bots, automation, and API-based features

@@ -1,29 +1,32 @@
-# <img src="https://cdn.ipqow.com/i/hotlink-ok/lotuslabs/assets/llbrand/svg/LL_1%20Lotus.svg" alt="Lotus Logo" width="36"> LotusLabs
+<img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/lotuslabs.svg" alt="Lotus Logo" height="32px">
 
-
-
-**LotusLabs** is a development studio focused on creating tools for streamers. We create tools that enhance the streaming experiences through integrations with Twitch, StreamElements, and API's.
-
-## 🌟 About Us
-We specialise in:
-- **Custom Twitch Widgets** – Interactive overlays and chat integrations
-- **StreamElements Tools** – Enhancements and automation for overlays and alerts
-- **Twitch API Integrations** – Custom bots, automation, and API-based features
-- **Etsy Store Creations** – Pre-made and custom digital products for streamers
-
-## 🔧 Our Products
-Our tools are designed to be easy to use while providing deep customization options. Some of our key products include:
-- **[Now Playing Widget](https://link.lotuslabs.dev/nowplaying)** – Display your current song with dynamic animations
-- **[Shoutout Overlay](https://link.lotuslabs.dev/shoutout)** – Automatically show streamer profiles when giving a shoutout
-
-Explore our latest creations on our **[Etsy Store](https://link.lotuslabs.dev/shop)**!
-
-## 🛠️ Support & Contact
-Need help or have a custom request? Reach out:
-- **Discord:** [Join Our Community](https://link.lotuslabs.dev/discord)
+We make tools for streamers!
 
 ---
 
-📢 Follow us for updates and new releases!
+<a href="https://songrequest.tv/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-songrequest.svg" alt="songrequest.tv logo" width="184"></a>    <a href="https://subathon.lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-subathon.svg" alt="lotuslabs subathon logo" width="184"></a>    <a href="https://tierlist.lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-tierlist.svg" alt="lotuslabs tierlist logo" width="184"></a>
 
-💜 Made with passion for streamers by LotusLabs.
+[SongRequest.tv](https://songrequest.tv/) - The most comprehensive song requesting platform for Twitch Streamers
+
+[Subathon](https://subathon.lotuslabs.dev/) - A pretty cool subathon Widget and Website, with customisable everything
+
+[TierList](https://tierlist.lotuslabs.dev/) - The tierlist maker, built for streamers. With a clean layout, no ads, and sharing options.
+
+---
+
+<a href="https://widgets.lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-widgets.svg" alt="lotuslabs widgets logo" width="184"></a>    <a href="https://logs.lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-logs.svg" alt="lotuslabs logs logo" width="184"></a>    <a href="https://gametrack.lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-gametrack.svg" alt="lotuslabs gametrack logo" width="184"></a>
+
+[LotusLabs Widgets](https://widgets.lotuslabs.dev/) - An independent widget platform and delivery by LotusLabs that integrates independent widgets, and auto-updating and secure StreamElements widget delivery
+
+[The LotusLabs Logs](https://logs.lotuslabs.dev/) - Twitch chat logger for some streamers, with a custom *pretty nice looking* interface 
+
+[GameTrack](https://gametrack.lotuslabs.dev/) - A simple twitch bot command maker for game statistics, currently including League of Legends, FACEIT and MCSR Ranked 
+
+---
+
+<a href="https://github.com/LotusLabsDev"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/git-streamlink.svg" alt="streamlink logo" width="184"></a>
+coming soon maybe 
+
+---
+
+To get in touch, [Join the Discord](https://lotuslabs.dev/discord)

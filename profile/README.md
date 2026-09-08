@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/lotuslabs.svg" alt="Lotus Logo" height="32px">
+<a href="https://lotuslabs.dev/"><img src="https://raw.githubusercontent.com/LotusLabsDev/.github/refs/heads/main/profile/lotuslabs.svg" alt="Lotus Logo" height="32px"></a>
 
 We make tools for streamers!
 
